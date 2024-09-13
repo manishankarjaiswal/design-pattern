@@ -1,0 +1,16 @@
+#Remove env
+.env
+/.env
+
+#Remove venv
+.venv
+venv
+Pipfile
+Pipfile.lock
+virtualenv_name
+
+*.vscode
+.vscode/
+
+*.py[codt]
+db.sqlite3
